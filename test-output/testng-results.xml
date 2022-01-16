@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-17T03:00:26 CST" name="Default suite" finished-at="2022-01-17T03:00:34 CST" duration-ms="7273">
+    <groups>
+    </groups>
+    <test started-at="2022-01-17T03:00:26 CST" name="Default test" finished-at="2022-01-17T03:00:34 CST" duration-ms="7273">
+      <class name="test.mySeleniumTest">
+        <test-method is-config="true" signature="setupApplication()[pri:0, instance:test.mySeleniumTest@4dbb42b7]" started-at="2022-01-17T03:00:26 CST" name="setupApplication" finished-at="2022-01-17T03:00:29 CST" duration-ms="2515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupApplication -->
+        <test-method signature="mySeleniumTestthis()[pri:0, instance:test.mySeleniumTest@4dbb42b7]" started-at="2022-01-17T03:00:29 CST" name="mySeleniumTestthis" finished-at="2022-01-17T03:00:34 CST" duration-ms="4494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySeleniumTestthis -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:test.mySeleniumTest@4dbb42b7]" started-at="2022-01-17T03:00:34 CST" name="closeApplication" finished-at="2022-01-17T03:00:34 CST" duration-ms="235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- test.mySeleniumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
